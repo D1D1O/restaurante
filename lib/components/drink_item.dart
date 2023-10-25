@@ -17,6 +17,8 @@ final String itemPrice;
           Image(
             image: AssetImage(imageURI),
             fit: BoxFit.cover,
+            height: 90,
+            width: double.infinity,
           ),
           Padding(
             padding: const EdgeInsets.all(16.0),
