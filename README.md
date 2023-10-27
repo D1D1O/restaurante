@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Uploading Ristorante.gif…]()
+![Ristorante](https://github.com/D1D1O/restaurante/assets/31021190/4d0fde78-4e97-4ae4-a977-91d0c6288e9d)
 
 ## Getting Started
 
